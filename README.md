@@ -1,4 +1,4 @@
-# Mentoring Challenges ( <span style="color: red;">EM CONSTRUÇÃO</span>)
+# Mentoring Challenges ( EM CONSTRUÇÃO )
 
 Este projeto consiste em alguns desafios, propostos pela mentoria DesenvolvimentondoMe
 ---
