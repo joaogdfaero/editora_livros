@@ -1,24 +1,65 @@
-# README
+# Mentoring Challenges (AINDA EM CONSTRUÇÃO)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este projeto consiste em alguns desafios, propostos pela mentoria DesenvolvimentondoMe
+---
 
-Things you may want to cover:
+O objetivo deste treinamento é a busca pela evolução pessoal e profissional de um dev.
 
-* Ruby version
+----
 
-* System dependencies
+### 1 - Implementar os CRUDs
+- Cadastrar Autores
+- Cadastrar Livros vinculando com Autor
+- Cadastrar Fornecedores com uma Conta
+- Cadastrar Peças vinculando com Fornecedor
+- Cadastrar Montagens com várias Peças e vinculando com Livro
 
-* Configuration
 
-* Database creation
+### 2 - Implementar as APIs
+- Cadastrar Autores
+- Cadastrar Livros vinculando com Autor
+- Cadastrar Fornecedores com uma Conta
+- Cadastrar Peças vinculando com Fornecedor
+- Cadastrar Montagens com várias Peças e vinculando com Livro
 
-* Database initialization
 
-* How to run the test suite
+### 3. Roles (Regras)
+- ### Alterar
+  - Adicionar campo CNPJ em Fornecedor
+  - Adicionar campo Dígito Verificador em Conta
+  - Adicionar campo ISBN em Livro
+  - Adicionar campo CPF em Autor
 
-* Services (job queues, cache servers, search engines, etc.)
+- ### Calcular
+  - Dígito Verificador em Conta (pesquisar como calcular esse dígito verificador)
 
-* Deployment instructions
+- ### Validar
+  - CNPJ em Fornecedor
+  - ISBN em Livro
+  - CPF em Autor
 
-* ...
+
+### 4. Filtros
+- ### Adicionar
+  - Campo título em Livro
+  - Campo nome em Peça
+
+- ### Filtrar
+  - Fornecedor por nome
+  - Fornecedor por número da conta em Conta
+  - Livros por título
+  - Livros por nome em Autor
+  - Montagem por nome em Peça
+  - Fornecedor por nome do Autor
+
+### 5. Relatórios
+- ### Adicionar
+  - Campo valor em Peça
+- ### Relatório
+  - Autor (com todas as informações com seu Livros (com todas as informações) e o total de Livros publicado
+  - Fornecedor (com todas as informações) com todos os autores (com todas as informações) e livros (com todas as informações)
+  - Livro com a montagem (com todas as informações) com suas peças (com todas as  informações), o total de peças e o custo total da montagem
+---
+
+<br>Mentor / Leader: <strong>Marco Castro</strong>
+<br>Studant / Author: <strong>João Gabriel Dal Forno (jdalforn@ford.com)</strong>
