@@ -62,4 +62,4 @@ O objetivo deste treinamento é a busca pela evolução pessoal e profissional d
 ---
 
 <br>Mentor / Leader: <strong>Marco Castro</strong>
-<br>Studant / Author: <strong>João Gabriel Dal Forno (jdalforn@ford.com)</strong>
+<br>Studant / Author: <strong>João Gabriel Dal Forno (joao.dal@acad.ufsm.br)</strong>
