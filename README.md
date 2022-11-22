@@ -23,7 +23,7 @@ O objetivo deste treinamento é a busca pela evolução pessoal e profissional d
 - Cadastrar Montagens com várias Peças e vinculando com Livro
 
 
-### 3. Roles (Regras)
+### 3. Rules (Regras)
 - ### Alterar
   - Adicionar campo CNPJ em Fornecedor
   - Adicionar campo Dígito Verificador em Conta
