@@ -3,7 +3,8 @@ class AccountsController < ApplicationController
 
   # GET /accounts or /accounts.json
   def index
-    @accounts = Account.all
+    @accounts = Account.search(params[:search]) if (params[:search]) and (params[:search_type] == 'account_number')
+    @accounts = Account.all unless params[:search]
   end
 
   # GET /accounts/1 or /accounts/1.json
@@ -65,6 +66,6 @@ class AccountsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def account_params
-      params.require(:account).permit(:account_number, :supplier_id, :digit)
+      params.require(:account).permit(:account_number, :supplier_id, :supplier_name, :digit)
     end
 end

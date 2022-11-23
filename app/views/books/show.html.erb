@@ -1,6 +1,7 @@
 <p style="color: green"><%= notice %></p>
 
 <%= render @book %>
+<b><%= "Author name: "%></b> <%= @book.author.name %>
 
 <div>
   <%= link_to "Edit this book", edit_book_path(@book) %> |
