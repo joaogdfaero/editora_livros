@@ -1,9 +1,12 @@
 # Mentoring Challenges ( EM CONSTRUÇÃO )
 
 Este projeto consiste em alguns desafios, propostos pela mentoria DesenvolvimentondoMe
----
-
 O objetivo deste treinamento é a busca pela evolução pessoal e profissional de um dev através da construção de um website utilizando Ruby on Rails.
+
+----
+## API Documentation (Postman)
+
+Link: https://documenter.getpostman.com/view/24543977/2s8YsnXwCV
 
 ----
 
