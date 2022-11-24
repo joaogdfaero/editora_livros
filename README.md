@@ -65,4 +65,4 @@ Link: https://documenter.getpostman.com/view/24543977/2s8YsnXwCV
 ---
 
 <br>Mentor / Leader: <strong>Marco Castro</strong>
-<br>Studant / Author: <strong>João Gabriel Dal Forno (joao.dal@acad.ufsm.br)</strong>
+<br>Student / Author: <strong>João Gabriel Dal Forno (joao.dal@acad.ufsm.br)</strong>
