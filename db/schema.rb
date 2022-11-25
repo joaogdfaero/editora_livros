@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_11_22_141315) do
+ActiveRecord::Schema[7.0].define(version: 2022_11_23_185155) do
   create_table "accounts", force: :cascade do |t|
     t.string "account_number"
     t.integer "supplier_id", null: false
@@ -28,6 +28,15 @@ ActiveRecord::Schema[7.0].define(version: 2022_11_22_141315) do
     t.datetime "updated_at", null: false
     t.index ["book_id"], name: "index_assemblies_on_book_id"
     t.index ["part_id"], name: "index_assemblies_on_part_id"
+  end
+
+  create_table "assemblies_parts", id: false, force: :cascade do |t|
+    t.integer "assembly_id", null: false
+    t.integer "part_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["assembly_id"], name: "index_assemblies_parts_on_assembly_id"
+    t.index ["part_id"], name: "index_assemblies_parts_on_part_id"
   end
 
   create_table "authors", force: :cascade do |t|
@@ -52,6 +61,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_11_22_141315) do
     t.integer "supplier_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "name"
     t.index ["supplier_id"], name: "index_parts_on_supplier_id"
   end
 
@@ -65,6 +75,8 @@ ActiveRecord::Schema[7.0].define(version: 2022_11_22_141315) do
   add_foreign_key "accounts", "suppliers"
   add_foreign_key "assemblies", "books"
   add_foreign_key "assemblies", "parts"
+  add_foreign_key "assemblies_parts", "assemblies"
+  add_foreign_key "assemblies_parts", "parts"
   add_foreign_key "books", "authors"
   add_foreign_key "parts", "suppliers"
 end

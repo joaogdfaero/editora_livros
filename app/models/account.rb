@@ -4,6 +4,8 @@ class Account < ApplicationRecord
   validates :account_number, uniqueness: true
   validate :account_digit_is_valid?
 
+  scope :search, ->(query) { where("account_number like ?", "%#{query}%") }
+
   private
   def account_digit_is_valid?
     d = CheckAccountDigit.new(account_number, digit)

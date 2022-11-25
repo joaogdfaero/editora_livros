@@ -3,7 +3,9 @@ class BooksController < ApplicationController
 
   # GET /books or /books.json
   def index
-    @books = Book.all
+    @books = Book.search(params[:search]) if (params[:search]) and (params[:search_type] == 'book_title')
+    @books = Book.by_author_name(params[:search]) if (params[:search]) and (params[:search_type] == 'author_name')
+    @books = Book.all unless params[:search]
   end
 
   # GET /books/1 or /books/1.json

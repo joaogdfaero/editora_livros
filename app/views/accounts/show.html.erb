@@ -1,6 +1,7 @@
 <p style="color: green"><%= notice %></p>
 
 <%= render @account %>
+<b><%= "Supplier name: "%></b> <%= @account.supplier.name %>
 
 <div>
   <%= link_to "Edit this account", edit_account_path(@account) %> |

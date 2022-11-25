@@ -3,7 +3,8 @@ class SuppliersController < ApplicationController
 
   # GET /suppliers or /suppliers.json
   def index
-    @suppliers = Supplier.all
+    @suppliers = Supplier.by_supplier_name(params[:search]) if (params[:search]) and (params[:search_type] == 'name')
+    @suppliers = Supplier.all unless params[:search]
   end
 
   # GET /suppliers/1 or /suppliers/1.json
