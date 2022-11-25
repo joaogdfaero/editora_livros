@@ -5,6 +5,8 @@
 <div id="parts">
   <% @parts.each do |part| %>
     <%= render part %>
+    <b><%= "Supplier name: "%></b> <%= part.supplier.name %>
+    <!--<b><%#= "Assembly name: "%></b> <%#= part.assembly.name %>-->
     <p>
       <%= link_to "Show this part", part %>
     </p>

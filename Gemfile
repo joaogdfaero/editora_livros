@@ -18,6 +18,11 @@ gem "cpf_cnpj"
 # ISBN
 gem 'isbn'
 
+# PARA GERAÇÃO DOS PDFs
+gem 'wicked_pdf'
+gem "wkhtmltopdf-binary", group: :development
+gem "wkhtmltopdf-heroku", group: :production
+
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
