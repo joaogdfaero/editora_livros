@@ -9,7 +9,7 @@ Link: https://documenter.getpostman.com/view/24543977/2s8YsnXwCV
 
 ----
 
-### 1 - Implementar os CRUDs
+### 1 - CRUDs
 - Cadastrar Autores
 - Cadastrar Livros vinculando com Autor
 - Cadastrar Fornecedores com uma Conta
@@ -17,7 +17,7 @@ Link: https://documenter.getpostman.com/view/24543977/2s8YsnXwCV
 - Cadastrar Montagens com várias Peças e vinculando com Livro
 
 
-### 2 - Implementar as APIs
+### 2 - APIs
 - Cadastrar Autores
 - Cadastrar Livros vinculando com Autor
 - Cadastrar Fornecedores com uma Conta
