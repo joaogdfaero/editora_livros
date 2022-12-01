@@ -1,11 +1,15 @@
 # Livraria
 
 Este projeto consiste na construção de um website de uma livraria utilizando Ruby on Rails.
-
 ----
-## API Documentation (Postman)
+## Setup
 
-Link: https://documenter.getpostman.com/view/24543977/2s8YsnXwCV
+1. `git clone https://github.com/joaogdfaero/missao_vaga_preparacao`
+2. `cd livraria`
+3. `rails db:create db:migrate db:seed`
+4. `bundler`
+5. `rails s`
+6. Abrir o link http://localhost:3000
 
 ----
 
@@ -62,6 +66,13 @@ Link: https://documenter.getpostman.com/view/24543977/2s8YsnXwCV
   - Fornecedor (com todas as informações) com todos os autores (com todas as informações) e livros (com todas as informações)
   - Livro com a montagem (com todas as informações) com suas peças (com todas as  informações), o total de peças e o custo total da montagem
 ---
+
+----
+## API Documentation (Postman)
+
+Link: https://documenter.getpostman.com/view/24543977/2s8YsnXwCV
+
+----
 
 <br>Mentor / Leader: <strong>Marco Castro</strong>
 <br>Student / Author: <strong>João Gabriel Dal Forno (joao.dal@acad.ufsm.br)</strong>
