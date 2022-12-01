@@ -65,7 +65,6 @@ Este projeto consiste na construção de um website de uma livraria utilizando R
   - Livro com a montagem (com todas as informações) com suas peças (com todas as  informações), o total de peças e o custo total da montagem
 ---
 
-----
 ## API Documentation (Postman)
 
 Link: https://documenter.getpostman.com/view/24543977/2s8YsnXwCV
