@@ -3,7 +3,7 @@ Este projeto consiste na construção de um website de uma livraria utilizando R
 ## Setup
 
 1. `git clone https://github.com/joaogdfaero/missao_vaga_preparacao`
-2. `cd livraria`
+2. `cd missao_vaga_preparacao`
 3. `rails db:create db:migrate db:seed`
 4. `bundler`
 5. `rails s`
