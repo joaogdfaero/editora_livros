@@ -1,7 +1,6 @@
 # Livraria
-
-Este projeto consiste na construção de um website de uma livraria utilizando Ruby on Rails.
 ----
+Este projeto consiste na construção de um website de uma livraria utilizando Ruby on Rails.
 ## Setup
 
 1. `git clone https://github.com/joaogdfaero/missao_vaga_preparacao`
