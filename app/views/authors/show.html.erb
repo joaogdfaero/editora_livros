@@ -42,3 +42,5 @@
 
   <%= button_to "Destroy this author", @author, method: :delete %>
 </div>
+
+<%= link_to 'Generate report in pdf', author_path(@author, format: :pdf) %>
