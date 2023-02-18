@@ -1,5 +1,5 @@
 # Livraria
-Este projeto consiste na construção de um website de uma livraria utilizando Ruby on Rails, sendo desafios propostos pela mentoria DesenvolvimentondoMe. 
+Este projeto consiste na construção de um website de uma livraria utilizando Ruby on Rails, sendo desafios propostos pela mentoria DesenvolvendoMe. 
 
 ----
 
