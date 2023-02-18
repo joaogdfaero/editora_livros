@@ -12,6 +12,4 @@ class Supplier < ApplicationRecord
   def cnpj_is_valid?
     errors.add(:cnpj, "CNPJ inválido! Por favor, verifique os dados." ) unless CNPJ.valid?(cnpj)
   end
-
-
 end
