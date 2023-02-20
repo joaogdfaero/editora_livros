@@ -24,6 +24,9 @@ gem 'isbn'
 gem 'wicked_pdf'
 gem 'wkhtmltopdf-binary'
 
+# TESTs
+gem 'rspec-rails', '~> 4.0.0'
+
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
