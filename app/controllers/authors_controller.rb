@@ -13,8 +13,8 @@ class AuthorsController < ApplicationController
       format.html
       format.pdf do
         render pdf: "Report Author id:#{@author.id}", template: "authors/report", formats: [:html], disposition: :inline, layout: 'pdf'
+      end
     end
-  end
   end
   
   # GET /authors/new
