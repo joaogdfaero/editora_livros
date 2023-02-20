@@ -1,0 +1,101 @@
+<style>
+    h1 {
+        text-align: center;
+    }
+    table {
+        border-collapse: collapse;
+        background: #FFFFF0;
+        margin-right: auto;
+    }
+
+    td {
+        border: 1px solid black;
+    }
+
+    th {
+        border: 1px solid black;
+        background: #d0d0d0;
+    }
+</style>
+
+<h1 style="text-align: center">Book Report</h1>
+
+<hr>
+
+<h2>Book:</h2>
+
+<p>
+  <strong>Id:</strong>
+  <%= @book.id %>
+</p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @book.title %>
+</p>
+
+<p>
+  <strong>Author:</strong>
+  <%= @book.author.name %>
+</p>
+
+<p>
+  <strong>Published at:</strong>
+  <%= @book.published_at %>
+</p>
+
+<p>
+  <strong>Isbn:</strong>
+  <%= @book.isbn %>
+</p>
+
+<hr>
+
+<h2>Assembly book:</h2>
+
+<p>
+  <strong>Id:</strong>
+  <%= @assembly.id %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @assembly.name %>
+
+</p>
+<strong>Parts:</strong>
+<table>
+  <thead>
+  <tr>
+    <th style="width:250px">Name</th>
+    <th style="width:150px">Part number</th>
+    <th style="width:100px">Value</th>
+  </tr>
+  </thead>
+
+  <tbody>
+  <% @assembly.parts.each do |part| %>
+    <tr>
+      <td><%= part.name %></td>
+      <td><%= part.part_number %></td>
+      <td><%= part.value %></td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>
+
+<hr>
+
+<p>
+  <strong>Total assembly parts: </strong>
+  <%= @assembly.parts.count %>
+</p>
+
+<hr>
+
+<p>
+  <strong>Total cost of assembly: </strong>
+  <%= @assembly.parts.sum(:value) %>
+</p>
+
+<hr>
