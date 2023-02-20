@@ -1,13 +1,14 @@
-# Mentoring Challenges ( EM CONSTRUÇÃO )
-
-Este projeto consiste em alguns desafios, propostos pela mentoria DesenvolvimentondoMe
----
-
 O objetivo deste treinamento é a busca pela evolução pessoal e profissional de um dev através da construção de um website utilizando Ruby on Rails.
+
+
+### 1 - Implementar os CRUDs
+=======
+# Livraria
+Este projeto consiste na construção de um website de uma livraria utilizando Ruby on Rails, sendo desafios propostos pela mentoria DesenvolvendoMe. 
 
 ----
 
-### 1 - Implementar os CRUDs
+### 1 - CRUDs
 - Cadastrar Autores
 - Cadastrar Livros vinculando com Autor
 - Cadastrar Fornecedores com uma Conta
@@ -61,5 +62,11 @@ O objetivo deste treinamento é a busca pela evolução pessoal e profissional d
   - Livro com a montagem (com todas as informações) com suas peças (com todas as  informações), o total de peças e o custo total da montagem
 ---
 
+## API Documentation (Postman)
+
+Link: https://documenter.getpostman.com/view/24543977/2s8YsnXwCV
+
+----
+
 <br>Mentor / Leader: <strong>Marco Castro</strong>
-<br>Studant / Author: <strong>João Gabriel Dal Forno (joao.dal@acad.ufsm.br)</strong>
+<br>Student / Author: <strong>João Gabriel Dal Forno (joao.dal@acad.ufsm.br)</strong>
