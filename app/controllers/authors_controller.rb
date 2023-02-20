@@ -7,9 +7,16 @@ class AuthorsController < ApplicationController
   end
 
   # GET /authors/1 or /authors/1.json
-  def show
+   def show
+    @books = Book.where("author_id = #{params[:id]}") if params[:id]
+    respond_to do |format|
+      format.html
+      format.pdf do
+        render pdf: "Report Author id:#{@author.id}", template: "authors/report", formats: [:html], disposition: :inline, layout: 'pdf'
+      end
+    end
   end
-
+  
   # GET /authors/new
   def new
     @author = Author.new
@@ -65,6 +72,6 @@ class AuthorsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def author_params
-      params.require(:author).permit(:name)
+      params.require(:author).permit(:name, :cpf)
     end
 end

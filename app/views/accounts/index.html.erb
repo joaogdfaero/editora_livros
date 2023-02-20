@@ -1,0 +1,30 @@
+
+<p id="notice"><%= notice %></p>
+
+<%= form_tag(accounts_path, method: :get) do %>
+  <p> Filtrar por:
+    <%= radio_button_tag 'search_type', 'account_number', true %>
+    Account Number
+    <%= text_field_tag 'search', nil, placeholder: 'Digite o número da conta...' %>
+    <%= submit_tag "Filtrar" %>
+  </p>
+<% end %>
+
+
+
+
+
+
+<h1>Accounts</h1>
+
+<div id="accounts">
+  <% @accounts.each do |account| %>
+    <%= render account %>
+    <b><%= "Supplier name: "%></b> <%= account.supplier.name %>
+    <p>
+      <%= link_to "Show this account", account %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New account", new_account_path %>

@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby "3.0.2"
+# DESKTOP ruby "3.0.2"
+# NOTE:
+ruby "3.1.2"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.4"
@@ -11,6 +13,16 @@ gem "sprockets-rails"
 
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
+
+# CPF - CNPJ
+gem "cpf_cnpj"
+
+# ISBN
+gem 'isbn'
+
+# GENERATING PDFs
+gem 'wicked_pdf'
+gem 'wkhtmltopdf-binary'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"

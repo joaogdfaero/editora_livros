@@ -1,3 +1,8 @@
+O objetivo deste treinamento é a busca pela evolução pessoal e profissional de um dev através da construção de um website utilizando Ruby on Rails.
+
+
+### 1 - Implementar os CRUDs
+=======
 # Livraria
 Este projeto consiste na construção de um website de uma livraria utilizando Ruby on Rails, sendo desafios propostos pela mentoria DesenvolvendoMe. 
 
@@ -11,7 +16,7 @@ Este projeto consiste na construção de um website de uma livraria utilizando R
 - Cadastrar Montagens com várias Peças e vinculando com Livro
 
 
-### 2 - APIs
+### 2 - Implementar as APIs
 - Cadastrar Autores
 - Cadastrar Livros vinculando com Autor
 - Cadastrar Fornecedores com uma Conta
@@ -19,7 +24,7 @@ Este projeto consiste na construção de um website de uma livraria utilizando R
 - Cadastrar Montagens com várias Peças e vinculando com Livro
 
 
-### 3. Rules (Regras)
+### 3. Roles (Regras)
 - ### Alterar
   - Adicionar campo CNPJ em Fornecedor
   - Adicionar campo Dígito Verificador em Conta
