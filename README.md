@@ -3,6 +3,8 @@ Este projeto consiste na construção de um website de uma editora de  livros ut
 
 ----
 
+Etapas de desenvolvimento realizadas neste projeto:
+
 ### 1 - CRUDs
 - Cadastrar Autores
 - Cadastrar Livros vinculando com Autor
