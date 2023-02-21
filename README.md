@@ -2,8 +2,7 @@
 Este projeto consiste na construção de um website de uma editora de  livros utilizando Ruby on Rails. Ele tem como objetivos desenvolver habilidades básicos no uso do Ruby On Rails.
 
 ----
-
-Etapas de desenvolvimento realizadas neste projeto:
+# Etapas do Projeto :ballot_box_with_check:
 
 ### 1 - CRUDs
 - Cadastrar Autores
