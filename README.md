@@ -1,9 +1,6 @@
-O objetivo deste treinamento é a busca pela evolução pessoal e profissional de um dev através da construção de um website utilizando Ruby on Rails.
 
-
-### 1 - Implementar os CRUDs
-# Livraria
-Este projeto consiste na construção de um website de uma livraria utilizando Ruby on Rails, sendo desafios propostos pela mentoria DesenvolvendoMe. 
+# Editora de Livros
+Este projeto consiste na construção de um website de uma editora de  livros utilizando Ruby on Rails. Ele tem como objetivos desenvolver habilidades básicos no uso do Ruby On Rails.
 
 ----
 
