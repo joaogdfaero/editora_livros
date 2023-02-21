@@ -2,7 +2,6 @@ O objetivo deste treinamento é a busca pela evolução pessoal e profissional d
 
 
 ### 1 - Implementar os CRUDs
-=======
 # Livraria
 Este projeto consiste na construção de um website de uma livraria utilizando Ruby on Rails, sendo desafios propostos pela mentoria DesenvolvendoMe. 
 
