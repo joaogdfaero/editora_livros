@@ -97,11 +97,11 @@ Link: https://documenter.getpostman.com/view/24543977/2s8YsnXwCV
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_joaogdfaero/missao_vaga_preparacao.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_joaogdfaero/missao_vaga_preparacao/graphs/contributors
+[contributors-url]: https://github.com/joaogdfaero/missao_vaga_preparacao/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_joaogdfaero/missao_vaga_preparacao.svg?style=for-the-badge
-[forks-url]: https://github.com/github_joaogdfaero/missao_vaga_preparacao/network/members
+[forks-url]: https://github.com/joaogdfaero/missao_vaga_preparacao/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_joaogdfaero/missao_vaga_preparacao.svg?style=for-the-badge
-[stars-url]: https://github.com/github_joaogdfaero/missao_vaga_preparacao/stargazers
+[stars-url]: https://github.com/joaogdfaero/missao_vaga_preparacao/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_joaogdfaero/missao_vaga_preparacao.svg?style=for-the-badge
 [issues-url]: https://github.com/github_joaogdfaero/missao_vaga_preparacao/issues
 [license-shield]: https://img.shields.io/github/license/github_joaogdfaero/missao_vaga_preparacao.svg?style=for-the-badge
