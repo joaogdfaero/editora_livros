@@ -58,7 +58,7 @@ Este projeto consiste na construção de um website de uma editora de  livros ut
   - Autor (com todas as informações com seu Livros (com todas as informações) e o total de Livros publicado
   - Fornecedor (com todas as informações) com todos os autores (com todas as informações) e livros (com todas as informações)
   - Livro com a montagem (com todas as informações) com suas peças (com todas as  informações), o total de peças e o custo total da montagem
----
+----
 
 ## API Documentation (Postman)
 
