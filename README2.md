@@ -49,14 +49,11 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Funcionalidades :iphone:
-Validação de CPF e geração de relatório com livros publicados.
-
-Geração de filtros.
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Algumas Funcionalidades :iphone:
+Validação de CPF e geração de relatório com livros publicados pelo autor.
+![1](https://user-images.githubusercontent.com/103076610/222918236-05a2fab0-833b-40cb-bfef-cf8ff15a0ebd.gif)
+Filtragem dos livros por título ou autor. 
+![2](https://user-images.githubusercontent.com/103076610/222918487-3a0310d8-d300-4ef5-a1c5-dc62c4f9dec4.gif)
 
 
 
