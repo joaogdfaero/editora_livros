@@ -122,10 +122,11 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 5. **O servidor inciará na porta: 3000 - acesse:**    
 ` http://localhost:3000 `
 
-<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
-
 <br>Mentor / Leader: <strong>Marco Castro</strong>
 <br>Student / Author: <strong>João Gabriel Dal Forno (joao.dal@acad.ufsm.br)</strong>
+
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
