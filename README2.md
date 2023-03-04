@@ -36,7 +36,7 @@
 <h3 align="center">Editora Rails</h3>
 
   <p align="center">
-    Este projeto consiste na construção de um website de uma editora de livros utilizando Ruby on Rails. Ele tem como objetivos desenvolver habilidades básicas no uso do Ruby On Rails.
+    Este projeto consiste na construção de um website de uma editora de livros utilizando Ruby on Rails. Ele tem como objetivos desenvolver habilidades básicas no uso do Ruby On Rails. É um dos projetos da mentoria  <a href="https://hotmart.com/pt-br/marketplace/produtos/desenvolvendome/S43742208Q">DesenvolvendoMe</a>.
     <br />
     <br />
     <br />
@@ -122,10 +122,10 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 5. **O servidor inciará na porta: 3000 - acesse:**    
 ` http://localhost:3000 `
 
-
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
-
+<br>Mentor / Leader: <strong>Marco Castro</strong>
+<br>Student / Author: <strong>João Gabriel Dal Forno (joao.dal@acad.ufsm.br)</strong>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
