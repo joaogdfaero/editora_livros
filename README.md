@@ -111,7 +111,7 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 ` git clone https://github.com/joaogdfaero/editora_livros_rails.git`
 
 2. **Acesse a pasta do projeto**  
-` cd editora `
+` cd editora_livros_rails `
 
 3. **Instale as gems necessárias**  
 ` bundle install `
