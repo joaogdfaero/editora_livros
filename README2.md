@@ -57,8 +57,7 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 ### Desenvolvido com :hammer_and_wrench:
 
 * <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a> Ruby 3.0.2 
-* <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a> 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> Rails 7.0.4
+* <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a> Rails 7.0.4
 * <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a> Linux Mint 21
 
 
