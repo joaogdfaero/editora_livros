@@ -33,15 +33,13 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Editora Rails</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/joaogdfaero/editora_livros_rails"><strong>Explore the docs »</strong></a>
+    Este projeto consiste na construção de um website de uma editora de livros utilizando Ruby on Rails. Ele tem como objetivos desenvolver habilidades básicas no uso do Ruby On Rails.
     <br />
     <br />
-    <a href="https://github.com/joaogdfaero/editora_livros_rails">View Demo</a>
+    <br />
     ·
     <a href="https://github.com/joaogdfaero/editora_livros_rails/issues">Report Bug</a>
     ·
