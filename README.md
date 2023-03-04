@@ -114,7 +114,7 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 ` cd editora_livros_rails `
 
 3. **Instale as gems necessárias**  
-` bundle install `
+` bundle `
 
 4. **Execute o servidor da aplicação**  
 ` rails s `
