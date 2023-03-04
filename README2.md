@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/joaogdfaero/editora_livros_rails">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
+    <img src="images/logo2.png" alt="Logo" width="180" height="180">
   </a>
 
 <h3 align="center">Editora Rails</h3>
