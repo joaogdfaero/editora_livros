@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Editora de Livros :green_book:</h1>
+<h1 align="center">Editora :green_book:</h1>
 Este projeto consiste na construção de um website de uma editora de  livros utilizando Ruby on Rails. Ele tem como objetivos desenvolver habilidades básicos no uso do Ruby On Rails.
 
 ----
