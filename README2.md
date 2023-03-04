@@ -108,7 +108,7 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 
 ## Instalação
 1. **Clone este repositório**  
-` git clone https://github.com/marcoaspeixoto/Missao-Vaga-DesenvolvendoMe.git `
+` git clone https://github.com/joaogdfaero/editora_livros_rails.git`
 
 2. **Acesse a pasta do projeto**  
 ` cd editora `
