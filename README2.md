@@ -54,11 +54,66 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 :-------------------------:|:-------------------------:
 ![1](https://user-images.githubusercontent.com/103076610/222918236-05a2fab0-833b-40cb-bfef-cf8ff15a0ebd.gif)  |  ![2](https://user-images.githubusercontent.com/103076610/222918487-3a0310d8-d300-4ef5-a1c5-dc62c4f9dec4.gif)
 
-### Desenvolvido com :hammer_and_wrench:
+## Etapas do Projeto :ballot_box_with_check:
+### 1 - CRUDs
+- Cadastrar Autores
+- Cadastrar Livros vinculando com Autor
+- Cadastrar Fornecedores com uma Conta
+- Cadastrar Peças vinculando com Fornecedor
 
+### 2 - Implementar as APIs
+- Cadastrar Autores
+- Cadastrar Livros vinculando com Autor
+- Cadastrar Fornecedores com uma Conta
+- Cadastrar Peças vinculando com Fornecedor
+
+### 3. Roles (Regras)
+- ### Alterar
+  - Adicionar campo CNPJ em Fornecedor
+  - Adicionar campo Dígito Verificador em Conta
+  - Adicionar campo ISBN em Livro
+  - Adicionar campo CPF em Autor
+  - 
+- ### Calcular
+  - Dígito Verificador em Conta (pesquisar como calcular esse dígito verificador)
+
+- ### Validar
+  - CNPJ em Fornecedor
+  - ISBN em Livro
+  - CPF em Autor
+
+
+### 4. Filtros
+- ### Adicionar
+  - Campo título em Livro
+  - Campo nome em Peça
+
+- ### Filtrar
+  - Fornecedor por nome
+  - Fornecedor por número da conta em Conta
+  - Livros por título
+  - Livros por nome em Autor
+
+### 5. Relatórios
+- ### Adicionar
+  - Campo valor em Peça
+- ### Relatório
+  - Autor (com todas as informações com seu Livros (com todas as informações) e o total de Livros publicado
+</font>
+
+
+## API Documentation (Postman)
+
+[Clique Aqui](https://documenter.getpostman.com/view/24543977/2s8YsnXwCV) <a href="https://stackshare.io/postman" target="_blank"><img src="https://github.com/kilianpaquier/devicon/blob/dbea53e8f43aa502e0d35d595729ecd86db87f62/icons/postman/postman-plain.svg" alt="ruby" width="40" height="40" /></a> 
+
+## Desenvolvido com :hammer_and_wrench:
 * <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a> Ruby 3.0.2 
 * <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a> Rails 7.0.4
 * <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a> Linux Mint 21
+
+--
+<br>Mentor / Leader: <strong>Marco Castro</strong>
+<br>Student / Author: <strong>João Gabriel Dal Forno (joao.dal@acad.ufsm.br)</strong>
 
 
 
