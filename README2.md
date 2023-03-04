@@ -114,7 +114,7 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 ` cd editora `
 
 3. **Instale as gems necessárias**  
-` bundle `
+` bundle install `
 
 4. **Execute o servidor da aplicação**  
 ` rails s `
@@ -123,7 +123,7 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 ` http://localhost:3000 `
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 
 
