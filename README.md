@@ -124,7 +124,7 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 
 ## Kanban <a href="" target="_blank"><img src="https://github.com/joaogdfaero/editora_livros_rails/blob/main/images/kanban.png" alt="kanban" width="40" height="40" /></a> 
 
-[Link]([https://documenter.getpostman.com/view/24543977/2s8YsnXwCV](https://github.com/users/joaogdfaero/projects/6)) 
+[Link](https://github.com/users/joaogdfaero/projects/6)) 
 
 
 <br>Mentor / Leader: <strong>Marco Castro</strong>
