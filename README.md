@@ -122,9 +122,9 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 5. **O servidor inciará na porta: 3000 - acesse:**    
 ` http://localhost:3000 `
 
-## Kanban <a href="" target="_blank"><img src="https://github.com/joaogdfaero/editora_livros_rails/blob/main/images/kanban.png" alt="kanban" width="40" height="40" /></a> 
+## Kanban <a href="" target="_blank"><img src="https://github.com/joaogdfaero/editora_livros_rails/blob/main/images/kanban.png" alt="kanban" width="50" height="50" /></a> 
 
-[Link](https://github.com/users/joaogdfaero/projects/6)) 
+[Link](https://github.com/users/joaogdfaero/projects/6)
 
 
 <br>Mentor / Leader: <strong>Marco Castro</strong>
