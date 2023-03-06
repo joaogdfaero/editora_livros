@@ -122,9 +122,9 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 5. **O servidor inciará na porta: 3000 - acesse:**    
 ` http://localhost:3000 `
 
-## Kanban <a href="https://stackshare.io/postman" target="_blank"><img src="https://github.com/kilianpaquier/devicon/blob/dbea53e8f43aa502e0d35d595729ecd86db87f62/icons/postman/postman-plain.svg" alt="ruby" width="40" height="40" /></a> 
+## Kanban <a href="" target="_blank"><img src="https://github.com/joaogdfaero/editora_livros_rails/blob/main/images/kanban.png" alt="kanban" width="40" height="40" /></a> 
 
-[Link](https://documenter.getpostman.com/view/24543977/2s8YsnXwCV) 
+[Link]([https://documenter.getpostman.com/view/24543977/2s8YsnXwCV](https://github.com/users/joaogdfaero/projects/6)) 
 
 
 <br>Mentor / Leader: <strong>Marco Castro</strong>
