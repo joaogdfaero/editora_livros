@@ -129,7 +129,6 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 <br>Mentor / Leader: <strong>Marco Castro</strong>
 <br>Student / Author: <strong>João Gabriel Dal Forno (joao.dal@acad.ufsm.br)</strong>
 
-
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
