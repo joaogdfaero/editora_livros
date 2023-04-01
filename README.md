@@ -106,6 +106,10 @@ Validação de CPF e geração de relatório com livros publicados pelo autor.  
 
 [Link](https://documenter.getpostman.com/view/24543977/2s8YsnXwCV) 
 
+## Tecnologias:
+* Ruby 3.0.2
+* Rails 7.0.4.3
+
 ## Instalação
 1. **Clone este repositório**  
 ` git clone https://github.com/joaogdfaero/editora_livros_rails.git`
