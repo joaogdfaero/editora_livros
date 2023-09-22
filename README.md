@@ -48,7 +48,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Some Features :iphone:
+## Features :iphone:
 CPF validation and generation of a report with books published by the author.            |  Filtering books by title or author. 
 :-------------------------:|:-------------------------:
 ![1](https://user-images.githubusercontent.com/103076610/222918236-05a2fab0-833b-40cb-bfef-cf8ff15a0ebd.gif)  |  ![2](https://user-images.githubusercontent.com/103076610/222918487-3a0310d8-d300-4ef5-a1c5-dc62c4f9dec4.gif)
