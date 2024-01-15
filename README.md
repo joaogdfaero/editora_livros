@@ -147,7 +147,7 @@ CPF validation and generation of a report with books published by the author.   
 [license-shield]: https://img.shields.io/github/license/joaogdfaero/editora_livros_rails.svg?style=for-the-badge
 [license-url]: https://github.com/joaogdfaero/editora_livros_rails/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/jo%C3%A3o-gabriel-dal-forno/
+[linkedin-url]: https://www.linkedin.com/in/joaogabrieldf/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
